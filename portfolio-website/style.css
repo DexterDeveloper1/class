@@ -124,3 +124,35 @@ header .job-title {
 .item h6 {
     font-weight: 300;
 }
+
+#skills .progress {
+    height: 0.5rem;
+}
+
+.skill-box {
+    margin-bottom: 1.2rem;
+}
+
+.skill-box p {
+    margin-bottom: 0.5rem;
+}
+
+.progress .progress-bar {
+    background-color: #5363F5;
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-95 {
+    width: 95%;
+}
+
+.w-99 {
+    width: 99%;
+}
